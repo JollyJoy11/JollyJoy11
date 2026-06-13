@@ -1,124 +1,117 @@
-# Hi, I'm Joanne 👋
+# Hi, I'm Joanne
 
-🎓 Computer Science Student
-💻 Full-Stack Developer & IoT Enthusiast
-🌱 Interested in AI, Cloud Computing, Web Development, and Smart Systems
+I'm a Computer Science student who enjoys building practical software across web development, databases, AI, and IoT. I like projects that turn an idea into something people can actually use, whether that is a full-stack travel platform, a plant identification system, a database-backed medication system, or an interactive game.
 
----
+I'm currently growing my skills in full-stack development, cloud deployment, AI-powered applications, and smart systems.
 
-## About Me
+## What I Work With
 
-I'm passionate about building software solutions that combine modern web technologies, IoT devices, and data-driven insights. I enjoy transforming ideas into practical applications and continuously exploring new technologies to expand my skill set.
-
----
-
-## Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square\&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square\&logo=mysql)
-
-### Frameworks & Tools
-
-![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square\&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square\&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square\&logo=arduino)
-
----
+**Languages:** JavaScript, Python, PHP, C#, C, SQL, HTML, CSS  
+**Frontend:** Vue.js, Vite, Bootstrap, responsive web design  
+**Backend & Databases:** Node.js, Express.js, PHP, MySQL, PostgreSQL, Supabase  
+**AI / Data:** Python, Jupyter Notebook, Streamlit, PyTorch, TensorFlow/Keras  
+**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, GitHub Actions, Arduino, Raspberry Pi
 
 ## Featured Projects
 
-### 🏝️ ReefTales
+### [ReefTales](https://github.com/JollyJoy11/reeftales)
 
-A full-stack island discovery and travel journal platform focused on marine tourism and reef exploration.
+A full-stack island discovery and travel journal platform for marine tourism, trip planning, community journals, and reef species exploration.
 
-**Highlights**
+- Built with Vue 3, Vite, Pinia, Vue Router, Node.js, Express.js, and MySQL
+- Includes authentication, trip/community features, reef species content, hosted media, and deployment-ready setup
+- Deployed with a Vercel frontend, Render backend, and Aiven MySQL database
 
-* Travel journal and community sharing platform
-* User authentication and profile management
-* Reef species exploration
-* Responsive modern interface
+**Live demo:** [reeftales.vercel.app](https://reeftales.vercel.app)
 
-**Tech Stack:** Vue.js, Node.js, Express.js, MySQL
+### [RootFlower](https://github.com/JollyJoy11/COS30020_AdancedWeb_RootFlower)
 
----
+A PHP and MySQL web application for a flower arrangement shop, built for COS30020 Advanced Web Technologies.
 
-### 🐱 Meowsome Smart Pet Care System
+- Includes product browsing, cart/order flow, workshop registration, user accounts, and admin management
+- Features an AR-style drag-and-drop flower arranger with save/share functionality
+- Supports password reset email flow and downloadable PDF receipts
 
-An IoT-powered smart pet ecosystem designed to monitor pet health, feeding, hydration, activity, and litter box usage.
+**Live demo:** [RootFlower on Railway](https://cos30020adancedwebrootflower-production.up.railway.app)
 
-**Highlights**
+### [GreenLife](https://github.com/JollyJoy11/GreenLife)
 
-* Smart feeder and litter box integration
-* MQTT-based communication
-* AI-driven health analytics workflow
-* Cloud dashboard architecture
-* Sensor-based monitoring and automation
+A plant and herbarium management system that helps users explore plant classifications, learn herbarium techniques, identify plants, and contribute specimen records.
 
-**Tech Stack:** Arduino, Raspberry Pi, MQTT, MySQL, AI Analytics
+- Built with PHP, MySQL, HTML, CSS, Python Flask, and TensorFlow/Keras
+- Includes user authentication, OTP verification, contribution review, enquiry handling, admin dashboard, and recycle bin flow
+- Uses a separate ML service for plant image identification
 
----
+### [Beadtz](https://github.com/JollyJoy11/Beadtz)
 
-### 🌿 Herbarium & Plant Identification Website
+A Unity/C# real-time music management game where players manage artists, concerts, venues, live events, and tour growth.
 
-A collaborative platform that enables users to identify plants, contribute records, and learn herbarium-making techniques.
+- Uses ScriptableObject-driven data architecture and JSON save persistence
+- Includes real-time concert events, artist stamina, city/venue systems, equipment boosts, and progression unlocks
+- Designed around fast decision-making during live concert situations
 
-**Highlights**
+## Collaboration Projects
 
-* Plant identification features
-* Interactive image galleries
-* Responsive navigation design
-* User profile and contribution management
-* Multilingual support planning
+I also include team projects in my portfolio because they show how I work with others: planning features, building assigned modules, integrating work, documenting progress, and delivering complete academic systems.
 
-**Tech Stack:** HTML, CSS, JavaScript
+### [SFC Digital Training Project](https://github.com/Suerfine/COS30049-CTIP)
 
----
+Group project for COS30049 Computing Technology Innovation Project. The application focuses on an online digital training platform for Sarawak Forestry Corporation.
 
-## Team Projects & Collaboration
+- JavaScript-based project with separate backend and frontend setup
+- Uses a backend server and an Expo-based frontend workflow
+- Shows experience working on a larger team project with client/domain requirements
 
-I enjoy collaborating in multidisciplinary teams and contributing across different stages of software development.
+### [SIGMAmed Medication Management Database](https://github.com/AndrewYii/Degree_SIGMAmed_Medication_System_PostgreSQL_COS20031_Database_Design_Project)
 
-Areas I frequently contribute to:
+A COS20031 database design project for a medication management system.
 
-* Frontend Development
-* Backend Development
-* Database Design
-* API Integration
-* IoT System Design
-* Technical Documentation
-* System Architecture
+- Designed and implemented a relational database using PostgreSQL
+- Used Supabase for online simulation and testing
+- Includes schema documentation, ERD/project deliverables, and later Python/Kinetica analysis workflow
 
----
+### [Traffic Incident Classification System](https://github.com/sinmim-0816/intro-to-ai)
+
+An AI project that combines traffic incident image classification with route recommendation.
+
+- Built with Python, Streamlit, PyTorch, OpenStreetMap data, and PyDeck visualization
+- Uses accident/severity classifiers to adjust route travel-time penalties
+- Includes graph search algorithms such as BFS, DFS, bidirectional search, greedy best-first search, A*, and IDA*
+
+### [Star Cruise Website](https://github.com/AndrewYii/Foudation_Website_StarCruise-FST10011-Web-Technologies-)
+
+A foundation web technologies group project for a fictional cruise travel website.
+
+- Built as a static multi-page website using HTML, CSS, and JavaScript
+- Includes pages for deals, destinations, onboard experiences, rooms, booking, feedback, and a lucky wheel mini-game
+- Demonstrates early experience with layout, navigation, responsive pages, and user-facing web content
+
+**Live demo:** [Star Cruise on GitHub Pages](https://andrewyii.github.io/Foudation_Website_StarCruise-FST10011-Web-Technologies-/)
+
+### [Bookworm Library Management System](https://github.com/AndrewYii/Foundation_Python_LibraryManagementSystem-FST10014-Programming-)
+
+A Python-based library management system developed as a foundation programming project.
+
+- Built with Python, MySQL, and CustomTkinter
+- Includes book management, user login, issuing/returning records, penalty calculation, and admin GUI features
+- Supports exporting data to Excel and PDF formats
 
 ## Currently Learning
 
-* Cloud Architecture
-* AI-Powered Applications
-* IoT System Deployment
-* Scalable Web Systems
-
----
+- Cloud deployment and production-ready web systems
+- AI integration in practical applications
+- Database design and analytics workflows
+- IoT system design and smart monitoring concepts
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JollyJoy11\&show_icons=true)
+![Joanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JollyJoy11&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyJoy11\&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyJoy11&layout=compact)
 
 ## Connect With Me
 
-* GitHub: https://github.com/JollyJoy11
-* LinkedIn: [Add your LinkedIn profile here](https://linkedin.com/in/joanne-jia-xuan)
+- GitHub: [github.com/JollyJoy11](https://github.com/JollyJoy11)
+- LinkedIn: [Add your LinkedIn profile here](https://linkedin.com/in/joanne-jia-xuan)
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile.
