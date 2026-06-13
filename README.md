@@ -1,117 +1,166 @@
-# Hi, I'm Joanne
+# Hi, I'm Joanne 👋
 
-I'm a Computer Science student who enjoys building practical software across web development, databases, AI, and IoT. I like projects that turn an idea into something people can actually use, whether that is a full-stack travel platform, a plant identification system, a database-backed medication system, or an interactive game.
+I'm a Computer Science student passionate about full-stack development, AI, databases and IoT systems. I enjoy building practical software that solves real-world problems, from travel platforms and plant identification systems to machine learning applications, smart monitoring solutions and interactive software experiences.
 
-I'm currently growing my skills in full-stack development, cloud deployment, AI-powered applications, and smart systems.
+---
 
-## What I Work With
+## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Python, PHP, C#, C, SQL, HTML, CSS  
-**Frontend:** Vue.js, Vite, Bootstrap, responsive web design  
-**Backend & Databases:** Node.js, Express.js, PHP, MySQL, PostgreSQL, Supabase  
-**AI / Data:** Python, Jupyter Notebook, Streamlit, PyTorch, TensorFlow/Keras  
-**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, GitHub Actions, Arduino, Raspberry Pi
+**Languages**
+JavaScript · Python · PHP · C# · C · SQL · HTML · CSS
 
-## Featured Projects
+**Frontend**
+Vue.js · React Native · Vite · Bootstrap · Responsive Web Design
 
-### [ReefTales](https://github.com/JollyJoy11/reeftales)
+**Backend & Databases**
+Node.js · Express.js · PHP · MySQL · PostgreSQL · Supabase
 
-A full-stack island discovery and travel journal platform for marine tourism, trip planning, community journals, and reef species exploration.
+**AI & Data**
+Python · Jupyter Notebook · Streamlit · PyTorch · TensorFlow/Keras
 
-- Built with Vue 3, Vite, Pinia, Vue Router, Node.js, Express.js, and MySQL
-- Includes authentication, trip/community features, reef species content, hosted media, and deployment-ready setup
-- Deployed with a Vercel frontend, Render backend, and Aiven MySQL database
+**Tools & Platforms**
+Git · GitHub · Vercel · Render · Railway · GitHub Actions · Arduino · Raspberry Pi
 
-**Live demo:** [reeftales.vercel.app](https://reeftales.vercel.app)
+---
 
-### [RootFlower](https://github.com/JollyJoy11/COS30020_AdancedWeb_RootFlower)
+## 📌 Highlights
 
-A PHP and MySQL web application for a flower arrangement shop, built for COS30020 Advanced Web Technologies.
+* Built and deployed full-stack web and mobile applications
+* Experience with AI, machine learning, and computer vision projects
+* Developed database systems using MySQL, PostgreSQL and Supabase
+* Worked on IoT monitoring and anomaly detection systems
+* Created applications ranging from travel platforms and management systems to simulation games
+* Familiar with cloud deployment using Vercel, Render, Railway and GitHub Actions
 
-- Includes product browsing, cart/order flow, workshop registration, user accounts, and admin management
-- Features an AR-style drag-and-drop flower arranger with save/share functionality
-- Supports password reset email flow and downloadable PDF receipts
+---
 
-**Live demo:** [RootFlower on Railway](https://cos30020adancedwebrootflower-production.up.railway.app)
+## 🌟 Featured Projects
 
-### [GreenLife](https://github.com/JollyJoy11/GreenLife)
+### 🏝️ [ReefTales](https://github.com/JollyJoy11/reeftales)
 
-A plant and herbarium management system that helps users explore plant classifications, learn herbarium techniques, identify plants, and contribute specimen records.
+A full-stack island discovery and travel journal platform focused on marine tourism, trip planning, community journals, and reef species exploration.
 
-- Built with PHP, MySQL, HTML, CSS, Python Flask, and TensorFlow/Keras
-- Includes user authentication, OTP verification, contribution review, enquiry handling, admin dashboard, and recycle bin flow
-- Uses a separate ML service for plant image identification
+* Built using Vue 3, Vite, Pinia, Node.js, Express.js and MySQL
+* Supports authentication, travel journals, community interaction and reef species discovery
+* Includes media management, trip planning and social features
+* Deployed using Vercel, Render and Aiven MySQL
 
-### [Beadtz](https://github.com/JollyJoy11/Beadtz)
+**Live Demo:** https://reeftales.vercel.app
 
-A Unity/C# real-time music management game where players manage artists, concerts, venues, live events, and tour growth.
+---
 
-- Uses ScriptableObject-driven data architecture and JSON save persistence
-- Includes real-time concert events, artist stamina, city/venue systems, equipment boosts, and progression unlocks
-- Designed around fast decision-making during live concert situations
+### 🌸 [RootFlower](https://github.com/JollyJoy11/COS30020_AdancedWeb_RootFlower)
 
-## Collaboration Projects
+A full-stack flower arrangement platform featuring e-commerce functionality, workshop registration, and an interactive bouquet design experience.
 
-I also include team projects in my portfolio because they show how I work with others: planning features, building assigned modules, integrating work, documenting progress, and delivering complete academic systems.
+* Built using PHP, MySQL, JavaScript, HTML and CSS
+* Includes product browsing, ordering, workshop registration and account management
+* Developed a camera-based flower arrangement system that allows users to create bouquets through hand gesture interaction
+* Supports PDF receipt generation, email workflows and administrative management features
 
-### [SFC Digital Training Project](https://github.com/Suerfine/COS30049-CTIP)
+**Live Demo:** https://cos30020adancedwebrootflower-production.up.railway.app
 
-Group project for COS30049 Computing Technology Innovation Project. The application focuses on an online digital training platform for Sarawak Forestry Corporation.
+---
 
-- JavaScript-based project with separate backend and frontend setup
-- Uses a backend server and an Expo-based frontend workflow
-- Shows experience working on a larger team project with client/domain requirements
+### 🌿 [GreenLife](https://github.com/JollyJoy11/GreenLife)
 
-### [SIGMAmed Medication Management Database](https://github.com/AndrewYii/Degree_SIGMAmed_Medication_System_PostgreSQL_COS20031_Database_Design_Project)
+A plant and herbarium management platform that helps users learn plant classifications, identify species, and contribute plant records.
 
-A COS20031 database design project for a medication management system.
+* Built using PHP, MySQL, Flask, TensorFlow/Keras, HTML, CSS and JavaScript
+* Includes authentication, OTP verification, contribution management and administrative tools
+* Integrates machine learning for plant image identification
+* Supports community contribution and educational content management
 
-- Designed and implemented a relational database using PostgreSQL
-- Used Supabase for online simulation and testing
-- Includes schema documentation, ERD/project deliverables, and later Python/Kinetica analysis workflow
+**Live Demo:** https://jollyjoy.infinityfreeapp.com/
 
-### [Traffic Incident Classification System](https://github.com/sinmim-0816/intro-to-ai)
+---
 
-An AI project that combines traffic incident image classification with route recommendation.
+### 🎵 [Beadtz](https://github.com/JollyJoy11/Beadtz)
 
-- Built with Python, Streamlit, PyTorch, OpenStreetMap data, and PyDeck visualization
-- Uses accident/severity classifiers to adjust route travel-time penalties
-- Includes graph search algorithms such as BFS, DFS, bidirectional search, greedy best-first search, A*, and IDA*
+A Unity-based concert management simulation game where players manage artists, venues, concerts, and tour progression.
 
-### [Star Cruise Website](https://github.com/AndrewYii/Foudation_Website_StarCruise-FST10011-Web-Technologies-)
+* Developed using Unity and C#
+* Uses ScriptableObjects and JSON-based save systems
+* Features artist progression, live events, venue systems, equipment upgrades and strategic resource management
+* Designed around real-time decision making and event management gameplay
 
-A foundation web technologies group project for a fictional cruise travel website.
+---
 
-- Built as a static multi-page website using HTML, CSS, and JavaScript
-- Includes pages for deals, destinations, onboard experiences, rooms, booking, feedback, and a lucky wheel mini-game
-- Demonstrates early experience with layout, navigation, responsive pages, and user-facing web content
+## Team Projects
 
-**Live demo:** [Star Cruise on GitHub Pages](https://andrewyii.github.io/Foudation_Website_StarCruise-FST10011-Web-Technologies-/)
+### 🌲 [SFC Digital Training Platform](https://github.com/Suerfine/COS30049-CTIP)
 
-### [Bookworm Library Management System](https://github.com/AndrewYii/Foundation_Python_LibraryManagementSystem-FST10014-Programming-)
+A mobile-focused digital training platform developed for Sarawak Forestry Corporation, incorporating AI, AR and IoT technologies.
 
-A Python-based library management system developed as a foundation programming project.
+**My Contributions**
 
-- Built with Python, MySQL, and CustomTkinter
-- Includes book management, user login, issuing/returning records, penalty calculation, and admin GUI features
-- Supports exporting data to Excel and PDF formats
+* Developed backend functionality using Node.js and Express.js
+* Implemented automated API testing using Jest and Supertest
+* Built features including notifications and discussion forums
+* Fixed UI issues and assisted with feature integration
+* Developed an IoT anomaly detection module
 
-## Currently Learning
+**Tech Stack:** React Native, Node.js, Express.js, AI, AR, Jest, Supertest
 
-- Cloud deployment and production-ready web systems
-- AI integration in practical applications
-- Database design and analytics workflows
-- IoT system design and smart monitoring concepts
+---
 
-## GitHub Stats
+### 💊 [SIGMAmed Medication Management System](https://github.com/AndrewYii/Degree_SIGMAmed_Medication_System_PostgreSQL_COS20031_Database_Design_Project)
 
-![Joanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JollyJoy11&show_icons=true&theme=default)
+A database-driven medication management system focused on healthcare data modelling and record management.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyJoy11&layout=compact)
+* Designed and implemented a relational database using PostgreSQL
+* Utilized Supabase for deployment and testing
+* Produced ERD models, database documentation and project deliverables
+* Explored database analytics and reporting workflows
 
-## Connect With Me
+---
 
-- GitHub: [github.com/JollyJoy11](https://github.com/JollyJoy11)
-- LinkedIn: [Add your LinkedIn profile here](https://linkedin.com/in/joanne-jia-xuan)
+### 🚦 [Traffic Incident Classification & Smart Routing System](https://github.com/sinmim-0816/intro-to-ai)
 
-Thanks for visiting my profile.
+An AI-powered navigation system that recommends routes based on real-time traffic incident severity and road conditions.
+
+* Developed and evaluated three image classification models: Custom CNN, VGG16 and EfficientNet
+* Uses computer vision to classify traffic incidents from uploaded images
+* Dynamically adjusts route travel times according to accident severity
+* Allows users to select origins and destinations through an interactive map interface
+* Implements pathfinding algorithms including BFS, DFS, Bidirectional Search, Greedy Best-First Search, A* and IDA*
+* Built using Python, PyTorch, Streamlit, OpenStreetMap, and PyDeck
+
+---
+
+### 🚢 [Star Cruise Website](https://github.com/AndrewYii/Foudation_Website_StarCruise-FST10011-Web-Technologies-)
+
+A multi-page travel and cruise booking website developed as an early web development project.
+
+* Built using HTML, CSS, and JavaScript
+* Includes destinations, booking pages, promotions and interactive features
+* Demonstrates responsive design and front-end development fundamentals
+
+**Live Demo:** https://andrewyii.github.io/Foudation_Website_StarCruise-FST10011-Web-Technologies-/
+
+---
+
+### 📚 [Bookworm Library Management System](https://github.com/AndrewYii/Foundation_Python_LibraryManagementSystem-FST10014-Programming-)
+
+A desktop-based library management application developed using Python.
+
+* Built with Python, MySQL, and CustomTkinter
+* Supports inventory management, borrowing records, user accounts and reporting
+* Includes Excel and PDF export functionality
+
+---
+
+## 📊 GitHub Stats
+
+![Joanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JollyJoy11\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyJoy11\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [github.com/JollyJoy11](https://github.com/JollyJoy11)
+* LinkedIn: [https://linkedin.com/in/joanne-jia-xuan](https://linkedin.com/in/joanne-jia-xuan)
+
+Thanks for visiting my profile!
