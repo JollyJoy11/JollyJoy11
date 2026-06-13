@@ -62,19 +62,6 @@ A full-stack flower arrangement platform featuring e-commerce functionality, wor
 
 ---
 
-### 🌿 [GreenLife](https://github.com/JollyJoy11/GreenLife)
-
-A plant and herbarium management platform that helps users learn plant classifications, identify species, and contribute plant records.
-
-* Built using PHP, MySQL, Flask, TensorFlow/Keras, HTML, CSS and JavaScript
-* Includes authentication, OTP verification, contribution management and administrative tools
-* Integrates machine learning for plant image identification
-* Supports community contribution and educational content management
-
-**Live Demo:** https://jollyjoy.infinityfreeapp.com/
-
----
-
 ### 🎵 [Beadtz](https://github.com/JollyJoy11/Beadtz)
 
 A Unity-based concert management simulation game where players manage artists, venues, concerts, and tour progression.
@@ -125,6 +112,19 @@ An AI-powered navigation system that recommends routes based on real-time traffi
 * Allows users to select origins and destinations through an interactive map interface
 * Implements pathfinding algorithms including BFS, DFS, Bidirectional Search, Greedy Best-First Search, A* and IDA*
 * Built using Python, PyTorch, Streamlit, OpenStreetMap, and PyDeck
+
+---
+
+### 🌿 [GreenLife](https://github.com/JollyJoy11/GreenLife)
+
+A collaborative plant and herbarium management platform that helps users learn plant classifications, identify species, and contribute plant records.
+
+- Built using PHP, MySQL, Flask, TensorFlow/Keras, HTML, CSS and JavaScript
+- Includes authentication, OTP verification, contribution management and administrative tools
+- Integrates machine learning for plant image identification
+- Supports community contribution and educational content management
+
+**Live Demo:** https://jollyjoy.infinityfreeapp.com/
 
 ---
 
